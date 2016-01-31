@@ -1,4 +1,5 @@
 #include “hw1.h”
+#include <stdio.h>
 char reverse_string(char * str, int length){
 if((!str)||(length<=0))
  return (1);
